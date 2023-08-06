@@ -118,8 +118,22 @@ Dimensions fixation manivelle
    Dimension Moteur NEMA Standard
 
 
-Connexions électroniques
+Connexions électroniques 
 ^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+La carte principal est connectée aux différents élément comme suit :
+
+.. image:: Lichee_Pi_Zero_top_connexions.png
+
+
+La connexion SDA/SCL/3V et GND est en liaison avec le capteur de rotation de la manivelle.
+
+La connexion Vin / GND est soudée sur l'alimentation
+
+.. warning::
+    Attention, à ne pas dépasser 5V pour l'alimentation, même si la carte possède un regulateur, celui ci ne pourra dissiper un large différence de tension. Le module peut être déterioré avec une mauvaise alimentation.
+
 
 |image21|
 
@@ -135,3 +149,6 @@ Connexions électroniques
 .. |image22| image:: utilisation/Pictures/1000000000000DB00000092081BA123F51BA9C82.jpg
    :width: 12.594cm
    :height: 8.396cm
+
+
+

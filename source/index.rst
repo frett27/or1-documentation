@@ -15,8 +15,9 @@ Documentation du module OR1
    utilisationOR1/editer_paroles.rst
    createinstrument.rst
    encryption.rst
+   sdk/sdk_overview.rst
    utilisationOR1/caracteristiques_techniques.rst
-
+   
 Tables et Indexes
 =================
 

@@ -30,3 +30,13 @@ html_static_path = ['_static']
 import sphinx_adc_theme
 html_theme = 'sphinx_adc_theme'
 html_theme_path = [sphinx_adc_theme.get_html_theme_path()]
+
+latex_elements = {'preamble': """\\usepackage{draftwatermark}
+                    \\SetWatermarkLightness{0.9}
+                    \\SetWatermarkAngle{45}
+                    \\SetWatermarkScale{5}
+                    \\SetWatermarkFontSize{2cm}
+                    \\SetWatermarkText{Draft}                
+                  """}
+
+

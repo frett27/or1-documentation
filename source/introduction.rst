@@ -13,8 +13,6 @@ Vous trouverez ici, une documentation que l'on souhaite exhaustive sur le module
     - la documentation technique. (pour des information plus précises)
     - la documentation des éléments logiciels (une documentation de référence pour les fonctions logicielles)
 
-La partie matérielle du module sera présentée, ainsi que la partie logicielle.
-
 Espérons que ce module et cette documentation aidera à construire des panoplies d'instruments et boites musicales 
 invitant à chanter, ou mettre une ambiance sonore agréable dans les maisons, boutiques ,rues , festivals et spectacles.
 x
