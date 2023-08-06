@@ -8,9 +8,6 @@ jobs:
     steps:
     - uses: actions/checkout@v1
 
-    && pip install sphinx-adc-theme
-
-
     - uses: ammaraskar/sphinx-action@master
       with:
         docs-folder: "."
