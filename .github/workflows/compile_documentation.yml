@@ -13,16 +13,11 @@ jobs:
 
     - run: sudo pip install -r requirements.txt
 
-    - uses: ammaraskar/sphinx-action@master
-      with:
-        docs-folder: "."
-        build-command: "make latexpdf"
+   
+    - run: "make latexpdf"
+    - run: "make html"
 
-    - uses: ammaraskar/sphinx-action@master
-      with:
-        docs-folder: "."
-        build-command: "make html"
-
+   
     - uses: actions/upload-artifact@v1
       with:
         name: DocumentationHTML
