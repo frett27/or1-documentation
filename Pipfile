@@ -1,0 +1,9 @@
+[[source]]
+verify_ssl = true
+url = "https://pypi.org/simple"
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+sphinx-adc-theme = {index = "pypi",version = "==0.2.1"}
