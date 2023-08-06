@@ -11,7 +11,7 @@ jobs:
     - uses: ammaraskar/sphinx-action@master
       with:
         docs-folder: "."
-        pre-build-command: "apt-get update -y && pip install sphinx_adc_theme && apt-get install -y latexmk texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended"
+        pre-build-command: "apt-get update -y && pip install sphinx-adc-theme && apt-get install -y latexmk texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended"
         build-command: "make latexpdf"
 
         
