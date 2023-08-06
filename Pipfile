@@ -6,4 +6,4 @@ name = "pypi"
 [dev-packages]
 
 [packages]
-sphinx-adc-theme = {index = "pypi",version = "==0.2.1"}
+sphinx-adc-theme = {index = "pypi",version = "==0.1.7"}
