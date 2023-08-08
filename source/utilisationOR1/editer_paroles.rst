@@ -7,7 +7,7 @@ Utilisation des paroles dans les fichiers MIDI
 Le module OR1 propose un affichage des paroles pouvant être insérés dans les fichiers midi.
 
 
-Plusieures méthodes existent dans l'encodage des paroles, et cette rubrique vise à donner plus de détails sur l'utilisation et la mise en place dans un fichier Midi, avec le minimum d'outillage.
+Plusieures méthodes existent dans l'encodage des paroles, et cette rubrique vise à donner plus de détails sur l'utilisation et la mise en place dans un fichier Midi, avec le minimum d'outillage pour le module OR1.
 
 
 Encodage des paroles pour les fichiers midi

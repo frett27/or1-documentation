@@ -17,6 +17,10 @@ Espérons que ce module et cette documentation aidera à construire des panoplie
 invitant à chanter, ou mettre une ambiance sonore agréable dans les maisons, boutiques ,rues , festivals et spectacles.
 x
 
-.. note:: Le logiciel utilisé dans le module OR1 n'est pas directement spécifique au matériel présenté. D'autre utilisation sont également , est un synthétiseur embarqué, spécialisé dans le jeu de fichier midi, kar, book. Sa particularité est de pouvoir être utilisé sur des cartes economes en énergie, tout en proposant également des accès naturels à des écrans tactiles, et controlleurs rotatifs (manivelles).
+.. note:: Le logiciel utilisé dans le module OR1 n'est pas directement associé au matériel présenté. 
+    D'autre utilisation sont également possible ,le logiciel mis en place est un synthétiseur embarqué basé sur des calculs entiers, 
+    et spécialisé dans le jeu de fichier midi, kar, book sur une base de sons enregistrés. 
+    Sa particularité est de pouvoir être utilisé sur des cartes economes en énergie, et propose des accès simplifiés à des écrans tactiles,
+    et autre éléments (controlleurs rotatifs (manivelles)).
 
 
