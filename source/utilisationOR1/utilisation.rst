@@ -93,24 +93,79 @@ Applications possibles du module
 
 La Tourniquette
 ^^^^^^^^^^^^^^^
-Instrument crée par Gérard et Ludwig (le turlutain), ce nouvel instrument électronique permet de jouer des morceaux de music au rythme de la manivelle avec une grande interaction de jeu.
+.. note::
+   Instrument crée par Gérard et Ludwig (le turlutain), ce nouvel instrument électronique permet de jouer des morceaux de music au rythme de la manivelle avec une grande interaction de jeu.
+
 
 .. figure:: ../applications/tourniquette.jpeg
    :alt: Tourniquette
    :width: 13.33cm
+
+Votre prochain petit orgue de Barbarie électronique ?
+
+Nous avons le plaisir de vous annoncer la sortie d’un nouvel
+appareil léger avec des fonctionnalités particulières, plus de
+cartons ou de rouleaux mais des fichiers sur une clé USB qui
+permettent de l’emporter partout dans un sac !
+
+L’appareil destiné surtout à l’accompagnement du chant est
+doté d’un écran capacitif sur lequel vous pouvez rechercher
+le titre du morceau dans votre liste. Il s’affiche en entier avec
+la durée de défilement.
+
+Vous choisissez sur l’écran entre un son très réaliste
+d’anches ou de flûtes avec réglage du volume. Pour que le
+morceau soit dans votre ton vous pouvez le transposer à
+votre guise. La manivelle répond instantanément à votre
+rythme, mais vous pouvez aussi la déconnecter.
+
+Et cerise sur le gâteau les paroles s’affichent en temps réel sur l’écran.
+
+Vous pourrez récupérer votre répertoire carton ou papier toutes gammes en fonction des accords avec les
+noteurs et vous procurer aussi des fichiers nouveaux auprès d’eux. Pour vos propres compositions et
+arrangements il y a possibilité de les transférer simplement en midi sur 68 notes chromatiques. 25 morceaux
+sont fournis au départ. Selon la version possibilités d’entrées micros, carte SD ou clé USB, ou Bluetooth sur
+l’amplificateur.
+
+Une sangle de transport vous permet de le porter tout en jouant. Poids 6kg ou 7kg environ selon la version
+avec deux batteries rechargeables comme un téléphone. Pied de maintien pliant et amovible en option.
+Dimensions : 40 cm de large 31 cm de haut et 24 cm de profondeur. Diverses présentations : couvercle en
+bois massif : Hêtre, Merisier ou Noyer. Caisse en contreplaqué tout Hêtre ou Peuplier. Teintes Chêne doré,
+gris, Wengé, naturel. Toile de diverses couleurs au choix. Housse et charrette légère sont prévus.
+
+.. note:: 
+   Et le prix ?
+
+   1900 ou 2400 euros selon la version.
+   Contact : 03 83 48 17 82
+
+   LE TURLUTAIN
+   Gérard DABONOT
+   104 Rue d’Alsace 54110 Sommerviller
+   leturlutain@gmail.com
+   Modèle et nom déposés
    
 .. figure:: ../applications/tourniquette2.jpeg
    :alt: Tourniquette
    :width: 13.33cm
-   
-.. figure:: ../applications/interieur.png
-   :alt: Pupitre
-   :height: 13.33cm
-   
-.. figure:: ../applications/socle.jpeg
-   :alt: Sur socle
-   :height: 13.33cm
-   
+
+.. list-table:: 
+
+   * - .. figure:: ../applications/interieur.png
+              :alt: Pupitre
+              :height: 8.625cm
+
+     - .. figure:: ../applications/socle.jpeg
+             :alt: Sur socle
+              :height: 8.625cm
+      
+     - .. figure:: ../applications/dehors.jpeg
+             :alt: Utilisation en extérieur
+              :height: 8.625cm
+      
+
+
+
 
 Première utilisation du module
 ------------------------------
