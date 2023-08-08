@@ -89,10 +89,28 @@ Applications possibles du module
 --------------------------------
 
 - Instrument mécanique électronique
-
 - Pupitre de pilotage d'un instrument midifié
 
+La Tourniquette
+^^^^^^^^^^^^^^^
+Instrument crée par Gérard et Ludwig (le turlutain), ce nouvel instrument électronique permet de jouer des morceaux de music au rythme de la manivelle avec une grande interaction de jeu.
 
+.. figure:: ../applications/tourniquette.jpeg
+   :alt: Tourniquette
+   :width: 13.33cm
+   
+.. figure:: ../applications/tourniquette2.jpeg
+   :alt: Tourniquette
+   :width: 13.33cm
+   
+.. figure:: ../applications/interieur.png
+   :alt: Pupitre
+   :height: 13.33cm
+   
+.. figure:: ../applications/socle.jpeg
+   :alt: Sur socle
+   :height: 13.33cm
+   
 
 Première utilisation du module
 ------------------------------
