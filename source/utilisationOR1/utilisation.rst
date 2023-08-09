@@ -23,27 +23,24 @@ Les fonctionnalités du module sont décrites ci dessous, pour la version 1 du m
 Lecture de fichiers interactive
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Lecture numérique de fichiers « Midi », « Kar » ou « Book », (les deux formats sont proposés)
+- Lecture numérique de fichiers « Midi », « Kar » ou « Book » stockés sur une clef USB, (les deux formats sont proposés)
 
-- Lecture numérique de fichiers « BookX », « MidiX », crypté fournis par les arrangeurs
+- Lecture numérique de fichiers cryptés « BookX », « MidiX » stockés sur une clef USB, fournis par les arrangeurs
 
-- Vitesse de jeu du fichier pilotée par la rotation de la manivelle, ou selection d’un tempo (jeu automatique)
+- Affichage des paroles sur 4 lignes, pendant le jeu.
+  
+- Vitesse de jeu du fichier pilotée par la rotation de la manivelle, ou selection d’un tempo (jeu automatique, sans manivelle)
 
-- Choix d’instrument dans une bibliothèque (Anche, Flute, ...)
+- Transposition par demi-tons (positifs ou négatif)
 
-- Lecture du fichier , en automatique sans tourner la manivelle
+- Choix d’instrument dans une bibliothèque prédéfinie par l'utilisateur (Anche, Flute, ...)
 
 - Restitution sonore paramétrable (par fichiers, pour la personnalité de l’instrument) :
 
-- possibilité de changement de registres de l'instrument en cours de jeu
-
-- possibilité de changement d’instrument parmi une bibliothèque proposée
+- possibilité de changement d'instrument, ou ajouter des registres en cours de jeu
 
 - Suivi dans la progression du jeu. (l’utilisateur a les informations de chronométrage du jeu et de la durée du morceau de musique en cours).
 
-- Affichage des paroles sur 4 lignes, pendant le jeu.
-
-- Ajout de fichiers midi sur la carte principale, en utilisant un ordinateur, pour étendre sa propre bibliothèques de titres. Jeu à partir de fichier stockés sur une clef USB.
 
 
 Système de protection de fichiers arrangés ou achetés (DRM)
