@@ -38,10 +38,10 @@ jobs:
       - run: sudo pip install -r requirements.txt
      
       - run: "make latexpdf"
+      
+      - run: cp build/latex/moduleor1.pdf source/
 
       - run: "make html"
-
-      - run: cp build/latex/moduleor1.pdf build/html/
       
       - name: Setup Pages
         uses: actions/configure-pages@v3
