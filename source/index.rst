@@ -6,9 +6,11 @@
 Documentation du module OR1 
 ===========================
 
+Récupérez la documentation au format PDF : :download:`OR1.pdf <moduleor1.pdf>`.
+
 .. toctree::
    :maxdepth: 3
-   :caption: Contenu de la documentation:
+   :caption: Contenu de la documentation
 
    introduction.rst
    utilisationOR1/utilisation.rst
@@ -17,7 +19,8 @@ Documentation du module OR1
    encryption.rst
    sdk/sdk_overview.rst
    utilisationOR1/caracteristiques_techniques.rst
-   
+
+
 Tables et Indexes
 =================
 

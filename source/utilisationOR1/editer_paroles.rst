@@ -13,7 +13,7 @@ Plusieures méthodes existent dans l'encodage des paroles, et cette rubrique vis
 Encodage des paroles pour les fichiers midi
 -------------------------------------------
 
-Tout comme les évènements de note dans les fichiers midi, des évènements de type texte peuvent être insérés. Ces évènements sont utilisés dans les fichier .kar pour le karaoké.
+Tout comme les évènements "note" dans les fichiers MIDI, des évènements de type "texte" peuvent également y être insérés. Ces évènements sont utilisés dans les fichier .kar pour le karaoké.
 
 Deux type d'évènements de type texte sont disponibles dans la norme midi, OR1 n'exploite que les évènements de type "Lyric". Les évènement "Text" sont ignorés.
 

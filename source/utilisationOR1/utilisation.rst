@@ -40,6 +40,7 @@ Lecture de fichiers interactive
 
 - Ajout de fichiers midi sur la carte principale, en utilisant un ordinateur, pour étendre sa propre bibliothèques de titres. Jeu à partir de fichier stockés sur une clef USB.
 
+
 Système de protection de fichiers arrangés ou achetés (DRM)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -94,7 +95,7 @@ Applications possibles du module
 La Tourniquette
 ^^^^^^^^^^^^^^^
 .. note::
-   Instrument crée par Gérard et Ludwig (le turlutain), ce nouvel instrument électronique permet de jouer des morceaux de music au rythme de la manivelle avec une grande interaction de jeu.
+   Instrument crée en collaboration avec Gérard et Ludwig (le turlutain), ce nouvel instrument électronique permet de jouer des morceaux de music au rythme de la manivelle avec une grande interaction de jeu.
 
 
 .. figure:: ../applications/tourniquette.jpeg
@@ -167,8 +168,8 @@ gris, Wengé, naturel. Toile de diverses couleurs au choix. Housse et charrette 
 
 
 
-Première utilisation du module
-------------------------------
+Utiliser le module pour la 1ère fois
+------------------------------------
 
 Cette section présente rapidement ici, les fonctionnalités principale et le fonctionnement des 3 écrans. Cette introduction permet de démarrer rapidement dans la compréhension du module et ses fonctions principales.
 

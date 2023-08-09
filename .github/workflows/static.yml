@@ -38,15 +38,26 @@ jobs:
       - run: sudo pip install -r requirements.txt
      
       - run: "make latexpdf"
+
       - run: "make html"
+
+      - run: cp build/latex/moduleor1.pdf build/html/
       
       - name: Setup Pages
         uses: actions/configure-pages@v3
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
           # Upload entire repository
           path: 'build/html'
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          # Upload entire repository
+          path: 'build/html'
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
