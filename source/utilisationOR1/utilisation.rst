@@ -13,6 +13,11 @@ Présentation du module OR1
 Fonctionnalités du module
 -------------------------
 
+.. video:: ../_static/moduleor1_preview.mp4
+   :width: 800
+
+
+
 Les fonctionnalités du module sont décrites ci dessous, pour la version 1 du module.
 
 Lecture de fichiers interactive

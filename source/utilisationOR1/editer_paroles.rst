@@ -4,10 +4,13 @@
 Utilisation des paroles dans les fichiers MIDI
 ==============================================
 
-Le module OR1 propose un affichage des paroles pouvant être insérés dans les fichiers midi.
+Le module OR1 propose un affichage des paroles pouvant être insérés dans les fichiers midi. Ces paroles sont enregistrées dans le fichier midi, avec des timings d'affichage pour faire du karaoke, ou apprendre les paroles d'une chanson.
+Nous regardons ici les différentes méthodes pour ajouter les paroles dans le fichier midi.
 
+Plusieures méthodes existent dans l'encodage des paroles au sein des fichiers MIDI, et cette rubrique vise à donner plus de détails sur l'utilisation et la mise en place dans un fichier Midi, avec le minimum d'outillage pour le module OR1.
 
-Plusieures méthodes existent dans l'encodage des paroles, et cette rubrique vise à donner plus de détails sur l'utilisation et la mise en place dans un fichier Midi, avec le minimum d'outillage pour le module OR1.
+.. :warning:: 
+    Les fichiers midi sont des fichiers binaires, et ne sont pas directement éditables avec un éditeur de texte. Il est nécessaire d'utiliser un programme spécifique pour éditer les fichiers midi.
 
 
 Encodage des paroles pour les fichiers midi
@@ -34,7 +37,11 @@ ATTENTION, si un évènement texte contient plusieures lignes, uniquement la fin
 Modification du midi pour insérer les paroles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Il est possible de mettre les paroles dans un fichier midi, en utilisant différents programmes. Ici dans un but explicatif, le programme https://github.com/pietvo/midi2text est utilisé. Celui ci converti au format texte les évènements midi encodés dans un fichier .mid.
+Il est possible de mettre les paroles dans un fichier midi, en utilisant différents programmes. Ici dans un but illustratif, le programme https://github.com/pietvo/midi2text est utilisé. Celui ci converti au format texte les évènements midi encodés dans un fichier .mid.
+
+.. :note::
+    Pour la création de nombreux fichiers midi, il est possible d'utiliser le logiciel MidiSwing, qui permet de créer des fichiers midi, et d'insérer les paroles dans les évènements midi. 
+
 
 exemple : 
 
@@ -118,4 +125,5 @@ Une fois ouvert avec le module nous obtenons le resultat, suivant  :
     :align: center
 
     Module affichage les paroles nouvellement insérées dans le fichier midi
+
 

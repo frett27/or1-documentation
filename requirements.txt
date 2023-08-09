@@ -1,2 +1,3 @@
-sphinx-adc-theme
 sphinx
+sphinx-adc-theme
+sphinxcontrib-video
