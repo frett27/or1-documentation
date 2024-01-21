@@ -17,6 +17,7 @@ Récupérez la documentation au format PDF : :download:`OR1.pdf <moduleor1.pdf>`
    utilisationOR1/editer_paroles.rst
    createinstrument.rst
    encryption.rst
+   versions.rst
    sdk/sdk_overview.rst
    utilisationOR1/caracteristiques_techniques.rst
 

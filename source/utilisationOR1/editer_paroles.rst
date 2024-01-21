@@ -20,10 +20,10 @@ Tout comme les évènements "note" dans les fichiers MIDI, des évènements de t
 
 Deux type d'évènements de type texte sont disponibles dans la norme midi, OR1 n'exploite que les évènements de type "Lyric". Les évènement "Text" sont ignorés.
 
-Les textes dans les évènements Lyric son encodés en utilisant le character set "ISO-8859-1" (iso latin). Cet encodage est celui utilisé par défaut en europe.
+Les textes dans les évènements Lyric son encodés en utilisant le character set "ISO-8859-1" (iso latin). Cet encodage est celui utilisé par défaut en europe. Si l'encodage n'est pas correctement utilisé, les accents peuvent ne pas s'afficher correctement sur le module.
 
 
-Lecture et utilisation des évènements dans le Module OR1
+Lecture et utilisation des évènements TEXT Midi, dans le Module OR1
 --------------------------------------------------------
 
 Lors de l'ouverture d'un fichier midi, OR1 effectue deux lectures du fichier.

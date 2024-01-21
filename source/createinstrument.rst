@@ -123,8 +123,8 @@ Dans cet exemple, on retrouve la définition de l'instrument "Flutes2" qui est d
 
 
 
-Description des instruments utilisant des soundfont sf2
-=======================================================
+Description des instruments utilisant des soundfont sf2 (module OR1.1, avec support synthétiseur)
+=================================================================================================
 
 Le module logiciel OR2 permet l'utilisation de bank de sons soundfont. https://fr.wikipedia.org/wiki/SoundFont 
 Ce sont des ficheirs sf2 permettant l'encodage de sons d'instrument et éditables avec le logiciel polyphone https://www.polyphone-soundfonts.com/ 
