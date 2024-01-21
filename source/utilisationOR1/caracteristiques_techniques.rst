@@ -89,6 +89,21 @@ Pièce 3D support, facilitant la fixation de l’écran sur l’instrument
 
    Dimensions du support 3D Ecran
 
+
+
+Fichier STL de la pièce :
+
+:download:`Boitier_Fixation.stl <../3D/Boitier_Fixation.stl>`
+
+
+
+Fichier Openscad de la pièce :
+
+:download:`Boitier_Fixation.scad <../3D/Boitier_Fixation.scad>`
+
+
+
+
 Pièce additionelle pour la fixation de la carte mère derrière l’écran
 
 .. figure:: utilisation/Pictures/10000001000002EF0000022546E7EF056DD75D0B.png
@@ -97,6 +112,21 @@ Pièce additionelle pour la fixation de la carte mère derrière l’écran
    :height: 8.737cm
 
    Support 3D de fixation de la carte CPU
+
+
+
+Fichier STL de la pièce :
+
+:download:`fixation_carte_lichee_pi.stl <../3D/fixation_carte_lichee_pi.stl>`
+
+
+Fichier Openscad de la pièce :
+
+:download:`fixation_carte_lichee_pi.scad <../3D/fixation_carte_lichee_pi.scad>`
+
+
+
+
 
 Dimensions fixation manivelle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
